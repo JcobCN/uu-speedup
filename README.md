@@ -1,2 +1,2 @@
 # uu-speedup
-global proxy by UU
+global proxy by UU Cross firewall block.
